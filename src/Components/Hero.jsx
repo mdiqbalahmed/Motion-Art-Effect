@@ -7,11 +7,12 @@ import img5 from '../assets/motionarteffect-img5.png'
 
 const Hero = () => {
   return (
-    <div className='relative p-4 m-6 '>
+    <div className='p-4 m-6 '>
         <div className='flex flex-col md:flex-row mt-20 '>
 
        
-<div className="basis-1/4 text-white text-lg font-medium text-center md:text-left"><span className='text-color'>Transform <br />Your Website</span>
+<div className="basis-1/4 text-white text-lg font-medium text-center md:text-left"><span className='text-color'>Transform</span> <br />
+<span className='text-color'>Your Website</span>
     <br />With Motion <br />Art Effect</div>
  <div className="basis-1/2 text-white">
     <h1 className='text-6xl font-medium'>Attract Your Visitors Attention With Colorful <span className='text-color'>Motion Art Effect</span></h1>
